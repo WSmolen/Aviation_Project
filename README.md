@@ -21,4 +21,4 @@ Using Data Science Skills  to make recommendations to a business executive.
   - Boeing is the safest commercial Airplane manufacturer.
   - Taylorcraft is the safest private commercial Airplane manufacturer.
   - Link to interactive Tableau Dashboard visualizing Data Analysis performed [Here](https://public.tableau.com/app/profile/westly.smolen/viz/AviationProjectDashboard/AviationDataDashboard?publish=yes)
-
+  - Link to final presenation [Here](https://docs.google.com/presentation/d/1QruR5SLUrTFrmH3l3LNTBkmQPDUTsIkaccXJ_cBfBz4/edit#slide=id.p)
